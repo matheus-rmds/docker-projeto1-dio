@@ -1,0 +1,29 @@
+body{
+    background-color: #1f1f1f;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.display {
+    background-color: #2496ed;
+    width: 460px;
+    height: 160px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 6px 8px 4px rgba(0, 0, 0, 0.1);
+
+    h1{
+        text-align: center;
+    }
+
+    p{
+        text-indent: 10px;
+        line-height: 25px;
+    }
+}
